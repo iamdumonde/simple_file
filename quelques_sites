@@ -51,3 +51,22 @@ Source : conversation avec Bing, 03/11/2023
 (3) Formation Webflow Français 2022 - Créer votre site web - Digidop. https://www.digidop.fr/blog/formation-webflow-francais-2022-creer-site-web.
 (4) Tutoriel Webflow - Les meilleures ressources de 2021 - NoCode Station. https://nocodestation.com/tutoriel-webflow/.
 (5) Webflow en Français | Guide et formation gratuite - Digidop. https://www.digidop.fr/blog/contenu-informatif-et-pedagogique-gratuit-webflow-en-francais.
+
+////////////////////
+Pour héberger votre site Web créé avec Webflow, vous pouvez suivre les étapes suivantes:
+
+1. Connectez-vous à votre compte Webflow et accédez à la page de gestion de votre site Web.
+2. Cliquez sur l'onglet "Paramètres" dans le menu de gauche.
+3. Cliquez sur "Hébergement" dans le sous-menu.
+4. Cliquez sur "Ajouter un domaine personnalisé" pour ajouter votre propre nom de domaine ou cliquez sur "Publier le site" pour héberger votre site sur le domaine Webflow.
+5. Si vous choisissez d'héberger votre site sur le domaine Webflow, vous pouvez publier votre site en cliquant sur "Publier le site" dans la page de gestion de votre site Web.
+
+Si vous souhaitez héberger votre site Web sur un autre service d'hébergement, vous pouvez exporter votre site Web à partir de Webflow et l'héberger sur un autre service d'hébergement. Vous pouvez trouver des instructions détaillées sur la façon d'exporter votre site Web à partir de Webflow sur leur site Web³.
+
+J'espère que cela vous aidera à héberger votre site Web. Bonne chance!
+
+Source : conversation avec Bing, 03/11/2023
+(1) Webflow — Wikipédia. https://fr.wikipedia.org/wiki/Webflow.
+(2) Agence Expert Webflow - Comment héberger mon site sur Webflow. https://www.nocodefactory.fr/webflow-tutos/comment-heberger-mon-site-sur-webflow.
+(3) Blog Studio Elias | Héberger un site Webflow sur Azure. https://www.elias.studio/blog/heberger-un-site-webflow-sur-azure.
+(4) Webflow : qu’est-ce que c’est et comment ça marche - 1min30. https://www.1min30.com/developpement-web/webflow-avantages-1287541032.
